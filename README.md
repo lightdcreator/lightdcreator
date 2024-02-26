@@ -1,7 +1,13 @@
-### Hi there 👋
-
 #
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=PROPUTA;FRANCIS)](https://git.io/typing-svg)
+
+
+
+
+![we-bare-bears-ice-bear](https://github.com/lightdcreator/lightdcreator/assets/71037359/dec738bb-1bac-4d35-9c85-75bdb186b82c)
+
+
+
 <!--
 **lightdcreator/lightdcreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
